@@ -21,6 +21,6 @@
 ### 5. Quantitative comparison on LOL-V1, LOL-V2-real, LOL-V2-syn
 ![table_eval](https://github.com/caoluyang0830/MSDI/blob/main/fig/LOL_v1_result.png)
 ![table_eval](https://github.com/caoluyang0830/MSDI/blob/main/fig/LOLv2real_result.png)
-![table_eval](hhttps://github.com/caoluyang0830/MSDI/blob/main/fig/LOLv2sys_result.png)
+![table_eval](https://github.com/caoluyang0830/MSDI/blob/main/fig/LOLv2sys_result.png)
 
 
