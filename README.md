@@ -1,4 +1,4 @@
-# MGCSI: Mutual-guided Cross-scale Interaction  Framework for Low-Light Image Enhancement
+# IRetinex: A Novel Inter-correction Retinex Model for Low-light Image Enhancement
 
 ### 1. Dependencies
 * Python3
