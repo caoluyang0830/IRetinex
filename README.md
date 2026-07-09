@@ -49,13 +49,13 @@ The current option files expect LOL-style paired datasets. Update the paths in `
 Expected examples:
 
 ```text
-/data0/luyang/data/LOLv1/
+/data/LOLv1/
   Train/input
   Train/target
   Test/input
   Test/target
 
-/data0/luyang/data/LOLv2/
+/data/LOLv2/
   Real_captured/Train/Low
   Real_captured/Train/Normal
   Real_captured/Test/Low
